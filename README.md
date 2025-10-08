@@ -16,3 +16,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/uthoomporn"><img src="https://github-readme-stats.vercel.app/api?username=uthoomporn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="uthoomporn's GitHub stats" /></a>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
